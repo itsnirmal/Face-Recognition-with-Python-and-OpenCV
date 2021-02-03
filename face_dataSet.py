@@ -43,7 +43,7 @@ while True:
 
     if key == 81 or key == 113:
         break
-    elif count >=200: #Take 30 samples and stop execution
+    elif count >=50: #Take 50 samples and stop execution
         break
 
 print('\n [INFO] Exiting Program')
